@@ -1,0 +1,200 @@
+[
+	{
+		"name": "bi_any_2_30d",
+		"category": "attacks",
+		"ips": 36069,
+		"common": 1
+	},
+	{
+		"name": "bi_ssh_2_30d",
+		"category": "attacks",
+		"ips": 33583,
+		"common": 1
+	},
+	{
+		"name": "bi_sshd_2_30d",
+		"category": "attacks",
+		"ips": 15334,
+		"common": 1
+	},
+	{
+		"name": "botscout_1d",
+		"category": "abuse",
+		"ips": 1612,
+		"common": 2
+	},
+	{
+		"name": "botscout_30d",
+		"category": "abuse",
+		"ips": 19406,
+		"common": 14
+	},
+	{
+		"name": "botscout_7d",
+		"category": "abuse",
+		"ips": 6749,
+		"common": 7
+	},
+	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 847,
+		"common": 2
+	},
+	{
+		"name": "cleantalk_1d",
+		"category": "abuse",
+		"ips": 821,
+		"common": 2
+	},
+	{
+		"name": "cleantalk_30d",
+		"category": "abuse",
+		"ips": 59391,
+		"common": 10
+	},
+	{
+		"name": "cleantalk_7d",
+		"category": "abuse",
+		"ips": 9768,
+		"common": 7
+	},
+	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 500,
+		"common": 2
+	},
+	{
+		"name": "cleantalk_updated_1d",
+		"category": "abuse",
+		"ips": 500,
+		"common": 2
+	},
+	{
+		"name": "cleantalk_updated_30d",
+		"category": "abuse",
+		"ips": 28168,
+		"common": 11
+	},
+	{
+		"name": "cleantalk_updated_7d",
+		"category": "abuse",
+		"ips": 4834,
+		"common": 7
+	},
+	{
+		"name": "cybercrime",
+		"category": "malware",
+		"ips": 2326,
+		"common": 1
+	},
+	{
+		"name": "firehol_abusers_1d",
+		"category": "abuse",
+		"ips": 8676,
+		"common": 3
+	},
+	{
+		"name": "firehol_abusers_30d",
+		"category": "abuse",
+		"ips": 235607,
+		"common": 17
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9401786,
+		"common": 16
+	},
+	{
+		"name": "firehol_webclient",
+		"category": "malware",
+		"ips": 2984,
+		"common": 1
+	},
+	{
+		"name": "gpf_comics",
+		"category": "abuse",
+		"ips": 14135,
+		"common": 2
+	},
+	{
+		"name": "haley_ssh",
+		"category": "attacks",
+		"ips": 66326,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unroutable",
+		"ips": 643576487,
+		"common": 8
+	},
+	{
+		"name": "iblocklist_edu",
+		"category": "organizations",
+		"ips": 227993507,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_hijacked",
+		"category": "attacks",
+		"ips": 8933120,
+		"common": 2
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 338114490,
+		"common": 1
+	},
+	{
+		"name": "sblam",
+		"category": "abuse",
+		"ips": 9103,
+		"common": 14
+	},
+	{
+		"name": "stopforumspam",
+		"category": "abuse",
+		"ips": 178332,
+		"common": 17
+	},
+	{
+		"name": "stopforumspam_180d",
+		"category": "abuse",
+		"ips": 258294,
+		"common": 18
+	},
+	{
+		"name": "stopforumspam_1d",
+		"category": "abuse",
+		"ips": 6767,
+		"common": 3
+	},
+	{
+		"name": "stopforumspam_30d",
+		"category": "abuse",
+		"ips": 70772,
+		"common": 17
+	},
+	{
+		"name": "stopforumspam_365d",
+		"category": "abuse",
+		"ips": 352032,
+		"common": 18
+	},
+	{
+		"name": "stopforumspam_7d",
+		"category": "abuse",
+		"ips": 21544,
+		"common": 14
+	},
+	{
+		"name": "stopforumspam_90d",
+		"category": "abuse",
+		"ips": 179109,
+		"common": 17
+	}
+]

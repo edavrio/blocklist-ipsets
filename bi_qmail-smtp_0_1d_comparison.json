@@ -1,0 +1,272 @@
+[
+	{
+		"name": "bbcan177_ms3",
+		"category": "malware",
+		"ips": 30151694,
+		"common": 1
+	},
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 26551,
+		"common": 17
+	},
+	{
+		"name": "bi_apache_0_1d",
+		"category": "attacks",
+		"ips": 143,
+		"common": 1
+	},
+	{
+		"name": "bi_assp_0_1d",
+		"category": "attacks",
+		"ips": 34,
+		"common": 1
+	},
+	{
+		"name": "bi_badbots_0_1d",
+		"category": "attacks",
+		"ips": 8112,
+		"common": 1
+	},
+	{
+		"name": "bi_bruteforce_0_1d",
+		"category": "attacks",
+		"ips": 8377,
+		"common": 1
+	},
+	{
+		"name": "bi_dovecot-pop3imap_0_1d",
+		"category": "attacks",
+		"ips": 119,
+		"common": 1
+	},
+	{
+		"name": "bi_dovecot_0_1d",
+		"category": "attacks",
+		"ips": 210,
+		"common": 1
+	},
+	{
+		"name": "bi_http_0_1d",
+		"category": "attacks",
+		"ips": 1056,
+		"common": 1
+	},
+	{
+		"name": "bi_mail_0_1d",
+		"category": "attacks",
+		"ips": 4171,
+		"common": 17
+	},
+	{
+		"name": "bi_postfix-sasl_0_1d",
+		"category": "attacks",
+		"ips": 226,
+		"common": 1
+	},
+	{
+		"name": "bi_postfix_0_1d",
+		"category": "attacks",
+		"ips": 1203,
+		"common": 3
+	},
+	{
+		"name": "bi_sasl_0_1d",
+		"category": "attacks",
+		"ips": 1981,
+		"common": 1
+	},
+	{
+		"name": "bi_smtp_0_1d",
+		"category": "attacks",
+		"ips": 202,
+		"common": 2
+	},
+	{
+		"name": "bi_ssh_0_1d",
+		"category": "attacks",
+		"ips": 14058,
+		"common": 1
+	},
+	{
+		"name": "bi_sshd_0_1d",
+		"category": "attacks",
+		"ips": 6720,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 27960,
+		"common": 8
+	},
+	{
+		"name": "blocklist_de_imap",
+		"category": "attacks",
+		"ips": 1009,
+		"common": 2
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 11735,
+		"common": 7
+	},
+	{
+		"name": "blocklist_de_ssh",
+		"category": "attacks",
+		"ips": 14008,
+		"common": 1
+	},
+	{
+		"name": "bruteforceblocker",
+		"category": "attacks",
+		"ips": 621,
+		"common": 1
+	},
+	{
+		"name": "darklist_de",
+		"category": "attacks",
+		"ips": 109230,
+		"common": 1
+	},
+	{
+		"name": "datacenters",
+		"category": "organizations",
+		"ips": 95959476,
+		"common": 1
+	},
+	{
+		"name": "dataplane_sshclient",
+		"category": "attacks",
+		"ips": 21403,
+		"common": 3
+	},
+	{
+		"name": "dataplane_sshpwauth",
+		"category": "attacks",
+		"ips": 19431,
+		"common": 1
+	},
+	{
+		"name": "dronebl_worms_bots",
+		"category": "malware",
+		"ips": 178574,
+		"common": 1
+	},
+	{
+		"name": "dshield_top_1000",
+		"category": "attacks",
+		"ips": 889,
+		"common": 1
+	},
+	{
+		"name": "et_compromised",
+		"category": "attacks",
+		"ips": 618,
+		"common": 1
+	},
+	{
+		"name": "firehol_anonymous",
+		"category": "anonymizers",
+		"ips": 1205088,
+		"common": 1
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 36390,
+		"common": 8
+	},
+	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 41791,
+		"common": 2
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9401786,
+		"common": 2
+	},
+	{
+		"name": "firehol_proxies",
+		"category": "anonymizers",
+		"ips": 1191408,
+		"common": 1
+	},
+	{
+		"name": "firehol_webserver",
+		"category": "attacks",
+		"ips": 34672465,
+		"common": 1
+	},
+	{
+		"name": "greensnow",
+		"category": "attacks",
+		"ips": 860,
+		"common": 1
+	},
+	{
+		"name": "haley_ssh",
+		"category": "attacks",
+		"ips": 66326,
+		"common": 2
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unroutable",
+		"ips": 643576487,
+		"common": 2
+	},
+	{
+		"name": "iblocklist_edu",
+		"category": "organizations",
+		"ips": 227993507,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 756666610,
+		"common": 2
+	},
+	{
+		"name": "ip2proxy_px1lite",
+		"category": "anonymizers",
+		"ips": 1190444,
+		"common": 1
+	},
+	{
+		"name": "lashback_ubl",
+		"category": "spam",
+		"ips": 216293,
+		"common": 2
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 5110,
+		"common": 1
+	},
+	{
+		"name": "normshield_all_bruteforce",
+		"category": "attacks",
+		"ips": 279,
+		"common": 1
+	},
+	{
+		"name": "normshield_high_bruteforce",
+		"category": "attacks",
+		"ips": 279,
+		"common": 1
+	},
+	{
+		"name": "pushing_inertia_blocklist",
+		"category": "reputation",
+		"ips": 34648204,
+		"common": 1
+	}
+]

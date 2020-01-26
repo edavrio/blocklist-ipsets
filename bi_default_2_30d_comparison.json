@@ -1,0 +1,158 @@
+[
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 26551,
+		"common": 3
+	},
+	{
+		"name": "bi_any_1_7d",
+		"category": "attacks",
+		"ips": 5932,
+		"common": 4
+	},
+	{
+		"name": "bi_any_2_1d",
+		"category": "attacks",
+		"ips": 1878,
+		"common": 3
+	},
+	{
+		"name": "bi_any_2_30d",
+		"category": "attacks",
+		"ips": 36069,
+		"common": 4
+	},
+	{
+		"name": "bi_any_2_7d",
+		"category": "attacks",
+		"ips": 4800,
+		"common": 4
+	},
+	{
+		"name": "bi_badbots_1_7d",
+		"category": "attacks",
+		"ips": 609,
+		"common": 1
+	},
+	{
+		"name": "bi_bruteforce_1_7d",
+		"category": "attacks",
+		"ips": 611,
+		"common": 1
+	},
+	{
+		"name": "bi_default_1_7d",
+		"category": "attacks",
+		"ips": 1,
+		"common": 1
+	},
+	{
+		"name": "bi_ssh_0_1d",
+		"category": "attacks",
+		"ips": 14058,
+		"common": 3
+	},
+	{
+		"name": "bi_ssh_1_7d",
+		"category": "attacks",
+		"ips": 3211,
+		"common": 4
+	},
+	{
+		"name": "bi_ssh_2_30d",
+		"category": "attacks",
+		"ips": 33583,
+		"common": 4
+	},
+	{
+		"name": "bi_sshd_0_1d",
+		"category": "attacks",
+		"ips": 6720,
+		"common": 2
+	},
+	{
+		"name": "bi_sshd_1_7d",
+		"category": "attacks",
+		"ips": 2851,
+		"common": 3
+	},
+	{
+		"name": "bi_sshd_2_30d",
+		"category": "attacks",
+		"ips": 15334,
+		"common": 3
+	},
+	{
+		"name": "bi_unknown_2_30d",
+		"category": "attacks",
+		"ips": 10,
+		"common": 4
+	},
+	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 27960,
+		"common": 3
+	},
+	{
+		"name": "blocklist_de_ssh",
+		"category": "attacks",
+		"ips": 14008,
+		"common": 3
+	},
+	{
+		"name": "blocklist_de_strongips",
+		"category": "attacks",
+		"ips": 789,
+		"common": 2
+	},
+	{
+		"name": "darklist_de",
+		"category": "attacks",
+		"ips": 109230,
+		"common": 3
+	},
+	{
+		"name": "datacenters",
+		"category": "organizations",
+		"ips": 95959476,
+		"common": 2
+	},
+	{
+		"name": "dataplane_sshclient",
+		"category": "attacks",
+		"ips": 21403,
+		"common": 4
+	},
+	{
+		"name": "dataplane_sshpwauth",
+		"category": "attacks",
+		"ips": 19431,
+		"common": 4
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 36390,
+		"common": 3
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9401786,
+		"common": 4
+	},
+	{
+		"name": "haley_ssh",
+		"category": "attacks",
+		"ips": 66326,
+		"common": 4
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 756666610,
+		"common": 1
+	}
+]

@@ -1,0 +1,206 @@
+[
+	{
+		"name": "alienvault_reputation",
+		"category": "reputation",
+		"ips": 31760,
+		"common": 2
+	},
+	{
+		"name": "bds_atif",
+		"category": "reputation",
+		"ips": 6763,
+		"common": 1
+	},
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 26551,
+		"common": 18
+	},
+	{
+		"name": "bi_ssh_0_1d",
+		"category": "attacks",
+		"ips": 14058,
+		"common": 18
+	},
+	{
+		"name": "bi_sshd_0_1d",
+		"category": "attacks",
+		"ips": 6720,
+		"common": 8
+	},
+	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 27960,
+		"common": 17
+	},
+	{
+		"name": "blocklist_de_ssh",
+		"category": "attacks",
+		"ips": 14008,
+		"common": 17
+	},
+	{
+		"name": "blocklist_net_ua",
+		"category": "abuse",
+		"ips": 18182,
+		"common": 2
+	},
+	{
+		"name": "bruteforceblocker",
+		"category": "attacks",
+		"ips": 621,
+		"common": 1
+	},
+	{
+		"name": "ciarmy",
+		"category": "reputation",
+		"ips": 15000,
+		"common": 2
+	},
+	{
+		"name": "darklist_de",
+		"category": "attacks",
+		"ips": 109230,
+		"common": 7
+	},
+	{
+		"name": "datacenters",
+		"category": "organizations",
+		"ips": 95959476,
+		"common": 7
+	},
+	{
+		"name": "dataplane_sshclient",
+		"category": "attacks",
+		"ips": 21403,
+		"common": 17
+	},
+	{
+		"name": "dataplane_sshpwauth",
+		"category": "attacks",
+		"ips": 19431,
+		"common": 15
+	},
+	{
+		"name": "et_compromised",
+		"category": "attacks",
+		"ips": 618,
+		"common": 1
+	},
+	{
+		"name": "firehol_anonymous",
+		"category": "anonymizers",
+		"ips": 1205088,
+		"common": 1
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 36390,
+		"common": 17
+	},
+	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 41791,
+		"common": 3
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9401786,
+		"common": 8
+	},
+	{
+		"name": "firehol_proxies",
+		"category": "anonymizers",
+		"ips": 1191408,
+		"common": 1
+	},
+	{
+		"name": "firehol_webserver",
+		"category": "attacks",
+		"ips": 34672465,
+		"common": 2
+	},
+	{
+		"name": "haley_ssh",
+		"category": "attacks",
+		"ips": 66326,
+		"common": 6
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unroutable",
+		"ips": 643576487,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_ciarmy_malicious",
+		"category": "reputation",
+		"ips": 15000,
+		"common": 2
+	},
+	{
+		"name": "iblocklist_isp_comcast",
+		"category": "organizations",
+		"ips": 45121536,
+		"common": 2
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 756666610,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 338114490,
+		"common": 2
+	},
+	{
+		"name": "ip2proxy_px1lite",
+		"category": "anonymizers",
+		"ips": 1190444,
+		"common": 1
+	},
+	{
+		"name": "pushing_inertia_blocklist",
+		"category": "reputation",
+		"ips": 34648204,
+		"common": 2
+	},
+	{
+		"name": "snort_ipfilter",
+		"category": "attacks",
+		"ips": 1289,
+		"common": 1
+	},
+	{
+		"name": "sorbs_dul",
+		"category": "spam",
+		"ips": 375474210,
+		"common": 2
+	},
+	{
+		"name": "stopforumspam_365d",
+		"category": "abuse",
+		"ips": 352032,
+		"common": 1
+	},
+	{
+		"name": "talosintel_ipfilter",
+		"category": "attacks",
+		"ips": 1293,
+		"common": 1
+	},
+	{
+		"name": "turris_greylist",
+		"category": "reputation",
+		"ips": 22054,
+		"common": 2
+	}
+]

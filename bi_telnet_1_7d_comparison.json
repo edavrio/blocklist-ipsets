@@ -1,0 +1,92 @@
+[
+	{
+		"name": "alienvault_reputation",
+		"category": "reputation",
+		"ips": 31760,
+		"common": 7
+	},
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 26551,
+		"common": 3
+	},
+	{
+		"name": "bi_any_1_7d",
+		"category": "attacks",
+		"ips": 5932,
+		"common": 9
+	},
+	{
+		"name": "bi_any_2_30d",
+		"category": "attacks",
+		"ips": 36069,
+		"common": 1
+	},
+	{
+		"name": "bi_any_2_7d",
+		"category": "attacks",
+		"ips": 4800,
+		"common": 1
+	},
+	{
+		"name": "bi_ssh_0_1d",
+		"category": "attacks",
+		"ips": 14058,
+		"common": 3
+	},
+	{
+		"name": "bi_ssh_1_7d",
+		"category": "attacks",
+		"ips": 3211,
+		"common": 9
+	},
+	{
+		"name": "bi_ssh_2_30d",
+		"category": "attacks",
+		"ips": 33583,
+		"common": 1
+	},
+	{
+		"name": "bi_telnet_0_1d",
+		"category": "attacks",
+		"ips": 132,
+		"common": 3
+	},
+	{
+		"name": "bi_telnet_2_30d",
+		"category": "attacks",
+		"ips": 27,
+		"common": 1
+	},
+	{
+		"name": "ciarmy",
+		"category": "reputation",
+		"ips": 15000,
+		"common": 3
+	},
+	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 41791,
+		"common": 3
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unroutable",
+		"ips": 643576487,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_ciarmy_malicious",
+		"category": "reputation",
+		"ips": 15000,
+		"common": 3
+	},
+	{
+		"name": "iblocklist_level3",
+		"category": "reputation",
+		"ips": 137275071,
+		"common": 1
+	}
+]
